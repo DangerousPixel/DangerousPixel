@@ -37,7 +37,7 @@ This project is designed to search for various types of locations using the Goog
 
 ## 📫 Get In Touch
 <p align="center">
-  <a href="https://twitter.com/DangerousPixel"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/DangerousPixel"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.snapchat.com/add/cubaiv"><img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
   <a href="https://www.instagram.com/cubaiv"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/xdanpixel"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
